@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/-ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="SPENCER058 ClickUp" />
   </a>
   <a>
-    <img src="https://komarev.com/ghpvc/?username=SPENCER058&label=Profile%20views&color=121b80&style=for-the-badge" alt="SPENCER058 view count" /> 
+    <img src="https://komarev.com/ghpvc/?username=arneyva&label=Profile%20views&color=121b80&style=for-the-badge" alt="SPENCER058 view count" /> 
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 </a>
 <p align=center>
   <a align=center href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=750 src="https://github-profile-trophy.vercel.app/?username=SPENCER058&theme=algolia&column=8&count_private=true" alt="SPENCER058's gitHub trophies" />
+    <img width=750 src="https://github-profile-trophy.vercel.app/?username=arneyva&theme=algolia&column=8&count_private=true" alt="SPENCER058's gitHub trophies" />
   </a>
 </p>
 
@@ -63,15 +63,15 @@
 <!--- Github Streak --->
 <p align=center> 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com?user=SPENCER058&theme=outrun&fire=EB0000&card_width=750" alt="SPENCER058's github streak" />
+    <img align="center" src="https://streak-stats.demolab.com?user=arneyva&theme=outrun&fire=EB0000&card_width=750" alt="SPENCER058's github streak" />
   </a>
 </p>
 
 <!--- Github Stat Used Language --->
 <p align=center> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPENCER058&show_icons=true&include_all_commits=true&card_width=400&theme=outrun&count_private=true"       alt="SPENCER058's github stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPENCER058&layout=compact&card_width=300&theme=outrun&count_private=true&langs_count=10" alt="SPENCER058's most used language"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arneyva&show_icons=true&include_all_commits=true&card_width=400&theme=outrun&count_private=true"       alt="SPENCER058's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arneyva&layout=compact&card_width=300&theme=outrun&count_private=true&langs_count=10" alt="SPENCER058's most used language"/>
   </a>
 </p>
 
